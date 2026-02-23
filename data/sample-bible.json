@@ -1,0 +1,43 @@
+{
+  "books": [
+    {
+      "id": "GEN",
+      "name": "Génesis",
+      "chapters": [
+        [
+          "Au commencement, Dieu créa les cieux et la terre.",
+          "La terre était informe et vide: il y avait des ténèbres à la surface de l’abîme, et l’esprit de Dieu se mouvait au-dessus des eaux.",
+          "Dieu dit: Que la lumière soit! Et la lumière fut."
+        ],
+        [
+          "Ainsi furent achevés les cieux et la terre, et toute leur armée.",
+          "Dieu acheva au septième jour son œuvre, et il se reposa."
+        ]
+      ]
+    },
+    {
+      "id": "JHN",
+      "name": "Jean",
+      "chapters": [
+        [
+          "Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu.",
+          "Elle était au commencement avec Dieu.",
+          "Toutes choses ont été faites par elle."
+        ],
+        [
+          "Car Dieu a tant aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu’il ait la vie éternelle."
+        ]
+      ]
+    },
+    {
+      "id": "PSA",
+      "name": "Psaumes",
+      "chapters": [
+        [
+          "L’Éternel est mon berger: je ne manquerai de rien.",
+          "Il me fait reposer dans de verts pâturages, il me dirige près des eaux paisibles."
+        ]
+      ]
+    }
+  ]
+}
